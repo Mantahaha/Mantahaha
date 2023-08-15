@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Renan
 - 👀 I’m interested in sharing my cod  
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on community  
+- 💞️ I’m looking for Job 
 - 📫 How to reach me mantahaha@gmail.com
 
 <!---
